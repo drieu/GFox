@@ -1,0 +1,11 @@
+Summary
+=======
+
+Source code to read all files from  mozilla directory and extract information.
+
+Build and Run
+=============
+
+Just work under IDE.
+No executable jar.
+This file was modified by IntelliJ IDEA 12.1.6 for binding GitHub repository
